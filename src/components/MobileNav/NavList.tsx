@@ -8,7 +8,7 @@ import { baseUrl } from "../../app/routes";
 import NavItem, { INavItem } from "./NavItem";
 
 import backImg from "../../images/arrow-back.svg";
-import logoImg from "../../images/logo.svg";
+import logoImg from "../../images/logo_dealgodon.png";
 
 interface NavListProps {
   items: INavItem[];
