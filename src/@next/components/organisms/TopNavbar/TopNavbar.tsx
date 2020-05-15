@@ -10,7 +10,7 @@ import { largeScreen, smallScreen } from "@styles/constants";
 import { maybe } from "@utils/misc";
 
 import LogoSmall from "images/logo-small.svg";
-import Logo from "images/logo.svg";
+import Logo from "images/logo_dealgodon.png";
 
 import { Dropdown } from "./Dropdown";
 import * as S from "./styles";
